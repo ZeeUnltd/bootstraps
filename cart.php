@@ -9,4 +9,7 @@
 
     echo "git is so cool!";
 
+    function fixBug(){
+      echo "do whatever boss says....";
+    }
  ?>
